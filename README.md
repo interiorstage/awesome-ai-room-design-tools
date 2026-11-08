@@ -39,6 +39,8 @@ General-purpose apps that restyle any room photo, furnished or not, and often re
 - [Remodel AI](https://www.remodelai.io) - Interior, exterior, virtual staging, floor, paint, and object-removal tools in one app; 3 free designs with no card ([pricing](https://www.remodelai.io/pricing)).
 - [RoomGPT](https://www.roomgpt.io) - One of the earliest photo-to-redesign tools; one free generation, then credit packs instead of a subscription.
 
+- [RoomRedecor](https://roomredecor.com/) - Paint furniture or decor in a room photo and explore an AI-generated style direction.
+
 ## Professional rendering and CAD-based tools
 
 For designers and architects who start from sketches, SketchUp, Revit, AutoCAD, or Rhino files, and need client-ready renders at volume.
