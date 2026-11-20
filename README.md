@@ -50,6 +50,7 @@ For designers and architects who start from sketches, SketchUp, Revit, AutoCAD, 
 
 Tools that work from measurements rather than photos. Use these when the question is whether furniture fits, not how it looks.
 
+- [3DRoomDesign.ai](https://3droomdesign.ai/) - Browser-based floor planner with AI conversion of plan images into editable 3D room layouts, furniture and finish editing, and a free 2D drawing tool ([pricing](https://3droomdesign.ai/pricing)).
 - [Planner 5D](https://planner5d.com) - 2D/3D floor planner with a furniture catalog, free unlimited projects, and 4K renders on paid plans ([pricing](https://planner5d.com/pricing)).
 
 ## Comparison articles
